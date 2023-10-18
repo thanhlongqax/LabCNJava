@@ -13,10 +13,7 @@ public class HibernateUtil {
 
     static {
         Configuration conf = new Configuration();
-
-
         conf.configure("hibernate.cfg.xml");
-
         conf.addAnnotatedClass(Phone.class);
         conf.addAnnotatedClass(Manufacture.class);
         ServiceRegistry registry = new StandardServiceRegistryBuilder().applySettings(conf.getProperties()).build();

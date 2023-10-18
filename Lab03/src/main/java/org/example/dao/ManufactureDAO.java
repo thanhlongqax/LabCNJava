@@ -5,12 +5,11 @@ import org.example.exception.InvalidOperationException;
 import org.example.models.Manufacture;
 import org.example.utils.HibernateUtil;
 import org.hibernate.Session;
-
 import javax.persistence.Query;
 import java.util.List;
 
 public class ManufactureDAO implements Repository<Manufacture, Integer> {
-    public static final Session session;
+    private static final Session session;
 
     static {
         session = HibernateUtil.getFactory().openSession();

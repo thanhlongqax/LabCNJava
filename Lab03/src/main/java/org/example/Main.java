@@ -10,7 +10,6 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
-        HibernateUtil hibernateUtil = new HibernateUtil();
         PhoneDAO phoneDAO = new PhoneDAO();
         ManufactureDAO manufactureDAO = new ManufactureDAO();
 
@@ -114,14 +113,6 @@ public class Main {
         phoneDAO.remove(1);
         phoneDAO.getAll().forEach(System.out::println);
         System.out.println("------------- END DELETE PHONE -------------");
-
-        System.out.println();
-
-        System.out.println("------------- BEGIN DELETE MANUFACTURE -------------");
-        System.out.println("------------- DELETE MANUFACTURE ID 1 -------------");
-        manufactureDAO.remove(1);
-        manufactureDAO.getAll().forEach(System.out::println);
-        System.out.println("------------- END DELETE MANUFACTURE -------------");
 
         System.out.println();
 

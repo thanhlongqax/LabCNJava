@@ -1,5 +1,7 @@
 package org.example.models;
 
+import org.hibernate.annotations.Cascade;
+
 import javax.persistence.*;
 import java.io.Serializable;
 
@@ -17,6 +19,7 @@ public class Phone implements Serializable {
 
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "manufacture_id")
+    //@Cascade(org.hibernate.annotations.CascadeType.ALL)
     private Manufacture manufacture;
 
     public Phone(Integer id, String name, Long price, String color, String country, Integer quantity, Manufacture manufacture) {

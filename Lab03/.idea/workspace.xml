@@ -4,7 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7baa9c01-1cb4-4ebf-85f8-be7b0dd792b6" name="Changes" comment="" />
+    <list default="true" id="7baa9c01-1cb4-4ebf-85f8-be7b0dd792b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab01/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/dao/ManufactureDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/dao/ManufactureDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/models/Manufacture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Manufacture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/models/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/models/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/utils/HibernateUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/utils/HibernateUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Repository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Repository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/dao/ManufactureDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/dao/ManufactureDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/exception/InvalidOperationException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/exception/InvalidOperationException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/models/Manufacture.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/models/Manufacture.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/models/Phone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/models/Phone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/utils/HibernateUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/utils/HibernateUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/Exercise05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/Exercise05/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab04/Exercise05/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab04/Exercise05/.idea/vcs.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,15 +41,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="useMavenConfig" value="true" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2W206leik40v4aPTjCthBy0wiWM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,10 +55,39 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Study/JavaTechnology/Labs/Lab03&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/Classroom/Java Technology/LabCNJava/Lab03&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Lab03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +96,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695915204132</updated>
+      <workItem from="1697606393160" duration="6564000" />
+      <workItem from="1697616763419" duration="1910000" />
+      <workItem from="1697620981289" duration="634000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
