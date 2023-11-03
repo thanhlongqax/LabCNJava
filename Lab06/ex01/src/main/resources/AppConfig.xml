@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!-- First Bean (Set using <property> tag) -->
+    <bean id="thanhlong1" class="org.example.Product" scope="prototype">
+        <property name="id" value="1" />
+        <property name="name" value="Sample Name" />
+        <property name="price" value="100.0" />
+        <property name="description" value="Sample Description" />
+    </bean>
+
+    <!-- Second Bean (Set up using <constructor-arg> tags) -->
+    <bean id="thanhlong2" class="org.example.Product" scope="prototype">
+        <constructor-arg value="2" />
+        <constructor-arg value="Another Name" />
+        <constructor-arg value="200.0" />
+        <constructor-arg value="Another Description" />
+    </bean>
+
+    <!-- Third Bean (Singleton, set using a mix of <property> and <constructor-arg>) -->
+    <bean id="thanhlong3" class="org.example.Product" scope="singleton">
+        <property name="id" value="1" />
+        <property name="name" value="Sample Name" />
+        <property name="price" value="100.0" />
+        <property name="description" value="Sample Description" />
+    </bean>
+</beans>
