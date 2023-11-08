@@ -1,0 +1,12 @@
+version: '4.23.0'
+
+services:
+  product-server:
+    image: 'mysql'
+    container_name: my-SQL-container-new
+    ports:
+      - "3306:3306"
+    environment:
+      - POSTGRES_USER=mySql
+      - POSTGRES_PASSWORD=12345678
+      - POSTGRES_DB=testDB
