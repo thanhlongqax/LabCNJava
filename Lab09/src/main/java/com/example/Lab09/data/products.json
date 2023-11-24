@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "brand": "Adidas",
+    "color": "pink",
+    "name": "T-shirt",
+    "price": 100.0
+  },
+  {
+    "id": 2,
+    "brand": "Gucci",
+    "color": "white",
+    "name": "Shoes",
+    "price": 88.0
+  },
+  {
+    "id": 3,
+    "brand": "Channel",
+    "color": "yellow",
+    "name": "Short",
+    "price": 11.0
+  },
+  {
+    "id": 4,
+    "brand": "Nike",
+    "color": "blue",
+    "name": "Shoes",
+    "price": 22.0
+  }
+]
