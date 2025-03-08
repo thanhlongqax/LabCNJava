@@ -1,7 +1,9 @@
 # ☕ Hành Trình Chinh Phục Java & Spring Boot
 
 ## 📌 Giới Thiệu
-Đây là bộ bài tập giúp bạn từng bước làm chủ **Java và Spring Boot**, từ những bài tập cơ bản đến các kỹ thuật nâng cao như **Hibernate, Servlet, JPA, REST API, JWT Authentication** và nhiều hơn nữa.
+Đây là bộ bài tập giúp bạn từng bước làm chủ **Java và Spring Boot**.
+<br>
+Bài tập cơ bản đến các kỹ thuật nâng cao như **Hibernate, Servlet, JPA, REST API, JWT Authentication** và nhiều hơn nữa.
 
 ---
 
