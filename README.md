@@ -7,10 +7,15 @@
 
 ## 🏆 Mục Tiêu Học Tập
 ✅ Thành thạo lập trình Java từ cơ bản đến nâng cao.
+<br>
 ✅ Hiểu và áp dụng **Lập trình hướng đối tượng (OOP)**.
+<br>
 ✅ Làm việc với **Collection, Stream API, Lambda Expression**.
+<br>
 ✅ Xử lý file, database với **JDBC, Hibernate, JPA**.
+<br>
 ✅ Xây dựng **RESTful API với Spring Boot**.
+<br>
 ✅ Bảo mật API với **JWT Authentication**.
 
 ---
