@@ -3,7 +3,7 @@
 ## 📌 Giới Thiệu
 Đây là bộ bài tập giúp bạn từng bước làm chủ **Java và Spring Boot**.
 <br>
-Bài tập cơ bản đến các kỹ thuật nâng cao như **Hibernate, Servlet, JPA, REST API, JWT Authentication** và nhiều hơn nữa.
+Bài tập cơ bản đến các kỹ thuật nâng cao như **Hibernate, Servlet, JPA, REST API, Security , JWT Authentication** và nhiều hơn nữa.
 
 ---
 
